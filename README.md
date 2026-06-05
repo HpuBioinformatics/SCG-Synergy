@@ -6,6 +6,9 @@ The package development version is tested on *Linux* (Ubuntu 20.04) operating sy
 ## Python Dependencies
 SCG-Synergy is tested under `python --<3.9.23>`
 
+## Prerequisites
+
+
 We provide a txt file containing the necessary packages for SCG-Synergy. All the required basic packages can be installed using the following command:
 ```
 pip install -r requirements.txt
